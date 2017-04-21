@@ -3,3 +3,4 @@ inhabitants friendly
 atmosphere dry
 could use a pool
 mars is the new earth
+weather needs analysis
